@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/avgorobec/D3js/issues"
   },
-  "homepage": "https://github.com/avgorobec/D3js#readme"
+  "homepage": "https://github.com/avgorobec/D3js#readme",
+  "dependencies": {
+    "d3": "^6.3.1"
+  }
 }
